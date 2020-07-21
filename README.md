@@ -1,2 +1,1 @@
-# THP_mini_jeu_POO
-Thp mini jeu Poo
+THP_mini_jeu_POO réalisé par Emeran Gaiville, Lucas Gautier, Martin Lanrezac et Souleyman Sall
